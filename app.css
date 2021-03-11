@@ -8,7 +8,7 @@ body{
     color: var(--font-clr);
 }
 #head{
-    background-image: url("../images/friends.jpg");
+    background-image: url("friends.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
